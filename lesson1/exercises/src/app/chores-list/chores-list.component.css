@@ -2,6 +2,8 @@
     color: purple;
     font-size: small;
     font-style: italic;
+    border-style: solid;
+    border-width: 1px 2px 3px 4px;
 }
 
 h3 {
